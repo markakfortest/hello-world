@@ -1,2 +1,1 @@
-# hello-world
-my first repository
+I like JavaScript and related technologies.
